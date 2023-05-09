@@ -3,7 +3,7 @@
     <img src="https://avatars.githubusercontent.com/u/42236133?s=400&u=93f93833806dd7d154fb711473877c0121ecec5a&v=4" width="100">
     <br>
     <br>
-    <img src="https://discord.c99.nl/widget/theme-2/984762276269662248.png">
+    <img src="https://discord.c99.nl/widget/theme-2/300322408261222411.png">
 </p>
 
 
