@@ -60,10 +60,19 @@
  <hr>
 
 <br>
-<p align="centre">
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iknow13&theme=react-dark&hide_border=true&area=true)  </p>
 
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/miouup/count.svg" />  
+</p>
+<br>
+  <p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 <p float="left" align="center">
     <a href="https://twitter.com/iknow13O" title="Twitter"><img src="./resources/Twitter.svg" width="100"></a>
