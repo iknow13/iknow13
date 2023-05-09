@@ -67,7 +67,7 @@
     
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/miouup/count.svg" />  
+  <img src="https://profile-counter.glitch.me/iknow13/count.svg" />  
 </p>
 <br>
   <p align="center">
