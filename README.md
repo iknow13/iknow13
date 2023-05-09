@@ -3,12 +3,13 @@
     <img src="https://avatars.githubusercontent.com/u/42236133?s=400&u=93f93833806dd7d154fb711473877c0121ecec5a&v=4" width="100">
     <br>
     <br>
-    <img src="https://discord.c99.nl/widget/theme-2/300322408261222411.png">
 </p>
 
 
 <h1 align="center">Lukas B.</h1>
 <p align="center">I'm a very weird gay guy who does programming and thinks it's good...</p>
+
+<img align="center" src="https://discord.c99.nl/widget/theme-2/300322408261222411.png">
 
 <br />
 
