@@ -78,9 +78,8 @@
 </p>
 
 <p float="left" align="center">
-    <a href="https://twitter.com/iknow13O" title="Twitter"><img src="./resources/Twitter.svg" width="100"></a>
-    <a href="https://www.youtube.com/c/iknow13-gay" title="YouTube"><img src="./resources/YouTube.svg" width="100"></a>
-    <a href="https://twitch.tv/iknow13" title="Twitch"><img src="./resources/Twitch.svg" width="100"></a>
-    <a href="https://discord.bradycat.me/" title="Discord"><img src="./resources/Discord.svg" width="100"></a>
-    <a href="https://iknow13.de/" title="My Website"><img src="./resources/Website.svg" width="100"></a>
+    <a href="https://www.youtube.com/c/FluffytraceOfficial" title="YouTube"><img src="./resources/YouTube.svg" width="100"></a>
+    <a href="https://www.twitch.tv/fluffytraceofficial" title="Twitch"><img src="./resources/Twitch.svg" width="100"></a>
+    <a href="https://discord.bradycat.de/" title="Discord"><img src="./resources/Discord.svg" width="100"></a>
+    <a href="https://fluffytrace.de/" title="My Website"><img src="./resources/Website.svg" width="100"></a>
 </p>
