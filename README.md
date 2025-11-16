@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/42236133?s=400&u=93f93833806dd7d154fb711473877c0121ecec5a&v=4" width="100">
+    <img src="https://cdn.iknow13.de/FluffyBanner.png" width="1920">
     <br>
     <br>
 </p>
