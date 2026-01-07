@@ -10,25 +10,9 @@
 <p align="center">I'm a very weird gay guy who does programming and thinks it's good...</p>
 
 <div align=center>
-<img src="https://discord.c99.nl/widget/theme-2/300322408261222411.png">
-
-<br />
+<img src="https://discord.c99.nl/widget/theme-2/300322408261222411.png">                                                                             
 
 <br>
-
-<hr>
-</p>  
-                                                                                    
-
-<br>
-<p align="center">
-
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=iknow13&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-</p>
 
 <br>
 
